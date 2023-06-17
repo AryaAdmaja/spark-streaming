@@ -10,7 +10,6 @@
 ![Kode 1](https://github.com/AryaAdmaja/spark-streaming/assets/90190923/ff615d35-e6e8-4a56-ba05-f42cf275b0ff)
 ![Kode 2](https://github.com/AryaAdmaja/spark-streaming/assets/90190923/681f07f5-4f0c-4f31-9753-7d97a975ca10)
 ![Kode 3](https://github.com/AryaAdmaja/spark-streaming/assets/90190923/70d2c8f9-1803-48e8-b5d7-8d94b80b236e)
-![Kode 4](https://github.com/AryaAdmaja/spark-streaming/assets/90190923/60b428ce-4466-4679-83ad-7b0c1bf97f5a)
 ![Kode 5](https://github.com/AryaAdmaja/spark-streaming/assets/90190923/98e55aed-782e-429b-802f-14cb2ff718ad)
 ![Kode 6](https://github.com/AryaAdmaja/spark-streaming/assets/90190923/a8641c00-05a1-4380-8a0f-92145fcf5f51)
   
