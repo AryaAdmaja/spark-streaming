@@ -6,7 +6,15 @@
 
 ## NIM : 2041720104
 
-
+# Hasil SS
+  ![SS](img/Kode 1.png)
+  ![SS](img/Kode 2.png)
+  ![SS](img/Kode 3.png)
+  ![SS](img/Kode 4.png)
+  ![SS](img/Kode 5.png)
+  ![SS](img/Kode 6.png)
+  
+ 
 # Tugas Praktikum
 
  - sys.argv : argumen saat program dijalankan. Argumen ini didapatkan dari input user.
