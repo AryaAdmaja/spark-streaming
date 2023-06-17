@@ -7,10 +7,12 @@
 ## NIM : 2041720104
 
 # Hasil SS
-https://github.com/AryaAdmaja/spark-streaming/blob/main/img/Kode%201.png
   ![SS](img/Kode 1.png)
+  
   ![SS](img/Kode 2.png)
+  
   ![SS](img/Kode 3.png)
+  
   ![SS](img/Kode 4.png)
   ![SS](img/Kode 5.png)
   ![SS](img/Kode 6.png)
